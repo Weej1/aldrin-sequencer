@@ -1,0 +1,7 @@
+![http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_instruments-878x601.png](http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_instruments-878x601.png)
+
+![http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_patterns-878x601.png](http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_patterns-878x601.png)
+
+![http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_router-760x576.png](http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_router-760x576.png)
+
+![http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_sequencer-878x601.png](http://aldrin-sequencer.googlecode.com/svn/wiki/aldrin13svn_sequencer-878x601.png)
